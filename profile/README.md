@@ -2,7 +2,7 @@
 
 This organization provides collaborative repositories for educational work by students and faculty at Carnegie Mellon University.
 
-If you are interested in participating, send an email to John Kitchin <jkitchin@andrew.cmu.edu>.
+Participation is by invitation. Contact <jkitchin@andrew.cmu.edu> for information.
 
 <!--
 
