@@ -4,6 +4,8 @@ This organization provides collaborative repositories for educational work by st
 
 Participation is by invitation. Contact <jkitchin@andrew.cmu.edu> for information.
 
+The primary goal of this organization is to test out using Codespaces for collaborative computational work. 
+
 <!--
 
 **Here are some ideas to get you started:**
