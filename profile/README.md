@@ -4,7 +4,9 @@ This organization provides collaborative repositories for educational work by st
 
 Participation is by invitation. Contact <jkitchin@andrew.cmu.edu> for information.
 
-The primary goal of this organization is to test out using Codespaces for collaborative computational work. 
+The primary goal of this organization is to test out using Codespaces for collaborative computational work. This is done by using a Codespace within a repository. The https://github.com/Steel-Bank-codespaces/jupyter-starter repository is a template repo that has a starting Jupyter lab installation in it. You can use it to create your own repository. The first time you create a Codespace takes a while with this template, but after that it should be pretty quick.
+
+By default, the Jupyter Lab installation is configured in collaborative mode. There is a file menu called Share that you can use to get a link to share with someone else in the repository. 
 
 <!--
 
